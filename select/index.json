@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "太陽曰く燃えよカオス",
+  "base_artist": "後ろから這いより隊G",
+  "createdAt": "2025-12-20T14:08:08.414899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "ハロー、ハッピーワールド!",
+      "has_synced": true,
+      "path": "select/01_太陽曰く燃えよカオス_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "STUDIO TRAM",
+      "has_synced": false,
+      "path": "select/02_太陽曰く燃えよカオス_STUDIO_TRAM.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "has_synced": false,
+      "path": "select/03_太陽曰く燃えよカオス_後ろから這いより隊G.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "Booing Day feat. Prim + PXJ",
+      "has_synced": false,
+      "path": "select/04_太陽曰く燃えよカオス_Booing_Day_feat._Prim_+_PXJ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/05_太陽曰く燃えよカオス_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス (岡本未夕 ver.)",
+      "artist": "岡本未夕",
+      "has_synced": false,
+      "path": "select/06_太陽曰く燃えよカオス_(岡本未夕_ver.)_岡本未夕.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "Ushirokarahaiyoritai G",
+      "has_synced": true,
+      "path": "select/07_太陽曰く燃えよカオス_Ushirokarahaiyoritai_G.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "has_synced": false,
+      "path": "select/08_太陽曰く燃えよカオス_後ろから這いより隊G.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "has_synced": true,
+      "path": "select/09_太陽曰く燃えよカオス_後ろから這いより隊G.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "岡本未夕",
+      "has_synced": false,
+      "path": "select/10_太陽曰く燃えよカオス_岡本未夕.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "ハロー、ハッピーワールド！",
+      "has_synced": true,
+      "path": "select/11_太陽曰く燃えよカオス_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス -クトゥグア ver.",
+      "artist": "松来未祐",
+      "has_synced": false,
+      "path": "select/12_太陽曰く燃えよカオス_-クトゥグア_ver._松来未祐.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "松下唯",
+      "has_synced": false,
+      "path": "select/13_太陽曰く燃えよカオス_松下唯.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "太陽曰く燃えよカオス - Cover",
+      "artist": "ハロー、ハッピーワールド!",
+      "has_synced": true,
+      "path": "select/14_太陽曰く燃えよカオス_-_Cover_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G (ニャル子×クー子×珠緒)",
+      "has_synced": false,
+      "path": "select/pl_01_太陽曰く燃えよカオス_後ろから這いより隊G_(ニャル子×クー子×珠緒).txt"
+    }
+  ]
+}
